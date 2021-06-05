@@ -4,4 +4,4 @@
 
 ### Desktop
 
-![](https://github.com/jorge933/Car-Cards/blob/main/images/desktop.png)
+![](https://github.com/jorge933/Car-Cards/blob/master/images/desktop.png)
